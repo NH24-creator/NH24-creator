@@ -45,8 +45,7 @@ Currently Learning & Practising
 
 🚀 Featured Projects
 
-
-
+-Currently building a finance tracker with special features.
 
 
 
