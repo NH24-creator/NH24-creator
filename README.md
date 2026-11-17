@@ -1,16 +1,63 @@
-## Hi there 👋
+Hi, I'm a Computer Science Student 👋
 
-<!--
-**NH24-creator/NH24-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science undergraduate interested in building intelligent applications by combining software engineering and Artificial Intelligence.
 
-Here are some ideas to get you started:
+🎯 Career Goal: AI Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student at MAIT
+- 💻 Interested in Full-Stack Development and AI-integrated applications
+- 🧠 Exploring practical applications of LLMs and AI
+- 📚 Practising Data Structures and Algorithms
+- 🚀 Focused on building real-world projects
+
+
+
+
+
+🛠️ Technologies
+
+Programming & Frontend
+
+- Python
+- JavaScript
+- React
+- HTML & CSS
+
+Backend Fundamentals
+
+- FastAPI
+- REST APIs
+- Backend Development Fundamentals
+
+Currently Learning & Practising
+
+- PostgreSQL
+- Database Integration with FastAPI
+- SQLAlchemy
+- Docker
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+🚀 Featured Projects
+
+
+
+
+
+
+📈 Current Focus
+
+Building full-stack applications, implementing database-backed systems, integrating AI capabilities, and strengthening my problem-solving skills.
+
+
+
+
+
+🤝 Connect With Me
+
+- GitHub: https://github.com/NH24-creator
